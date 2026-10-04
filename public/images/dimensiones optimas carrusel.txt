@@ -1,0 +1,6 @@
+🖥️ Para Computadoras (PC / Escritorio)
+• Dimensión ideal: 1200 x 500 píxeles (Relación de aspecto aproximada de 21:9 o panorámica).
+• Peso máximo sugerido: No más de 200 KB por archivo.
+• Formato: Guardalas en .webp (es el estándar moderno que usa Next.js para optimizar) o .jpg con compresión del 75%.
+📱 Para Celulares (Mobile)
+El carrusel que armamos tiene la propiedad objectFit: 'cover'. Esto significa que si usás la misma imagen horizontal de la PC en el celular, el navegador no la va a aplastar, sino que la va a centrar y recortará un poco los laterales de la foto para encuadrarla.

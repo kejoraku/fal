@@ -1,0 +1,5 @@
+🖥️ Para Computadoras (Escritorio)
+• Medida ideal: 1920 x 1080 píxeles (Relación de aspecto 16:9 - Full HD).
+• Compresión: Guardalas en formato .webp o .jpg optimizado. Intentá que cada archivo no pese más de 300 KB para que la página vuele al cargar.
+
+

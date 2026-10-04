@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* Clases responsivas nativas por si el motor de Next.js tarda en compilar */
+.menu-desktop { display: flex; }
+.btn-hamburguesa { display: none; }
+.fondo-pc { display: block; }
+.fondo-mobile { display: none; }
+.grid-campanas { grid-template-columns: repeat(3, 1fr); }
+
+@media (max-width: 768px) {
+  .menu-desktop { display: none; }
+  .btn-hamburguesa { display: block; }
+  .fondo-pc { display: none; }
+  .fondo-mobile { display: block; }
+  .grid-campanas { grid-template-columns: 1fr; }
+}

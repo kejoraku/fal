@@ -1,0 +1,22 @@
+{
+  "name": "comunidad-fal",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "lucide-react": "^0.400.0",
+    "next": "latest",
+    "postcss": "^8.5.28",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "26.6.4",
+    "@types/react": "19.3.0",
+    "typescript": "7.0.2"
+  }
+}
